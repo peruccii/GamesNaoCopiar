@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="login">Entrar</string>
+    <string name="bemvindo">Bem-vindo!</string>
+    <string name="descricao">Com o nosso aplicativo será muito mais fácil e divertido manter o controle dos seus games!</string>
+    <string name="email">E-mail</string>
+    <string name="foto">Escolha uma foto</string>
+    <string name="data">Autenticacao</string>
+    <string name="info">Dados pessoais</string>
+    <string name="nome">Qual seu nome?</string>
+    <string name="cidade">Qual sua cidade?</string>
+    <string name="aniversario">Aniversario</string>
+    <string name="levelgamer">Qua seu nivel gamer?</string>
+    <string name="password">Password</string>
+    <string name="lembrarme">Lembrar-me</string>
+    <string name="sign_up">Entrar</string>
+    <string name="contanova">Criar conta</string>
+    <string name="console">Qual seu console favorito?</string>
+    <string-array name="dropdown">
+        <item>Playstation</item>
+        <item>PSP</item>
+        <item>Xbox</item>
+        <item>Super Nintendo</item>
+        <item>PSVITA</item>
+    </string-array>
+
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+
+    <string name="da">Dados para autenticacao</string>
+
+    <string name="finished">Games Finished</string>
+    <string name="currently">Currently Playing</string>
+    <string name="age">Age</string>
+
+</resources>
